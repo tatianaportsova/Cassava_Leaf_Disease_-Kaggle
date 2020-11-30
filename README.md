@@ -1,1 +1,1 @@
-# Cassava_Leaf_Disease_-Kaggle
+# Cassava_Leaf_Disease_Kaggle
