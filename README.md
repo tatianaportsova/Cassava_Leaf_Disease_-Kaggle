@@ -1,1 +1,2 @@
 # Cassava_Leaf_Disease_Kaggle
+Kaggle Competition
